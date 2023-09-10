@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+del {
+	text-decoration: none;
+	color: #b30000;
+	background: #fadad7;
+}
+
+ins {
+	background: #eaf2c2;
+	color: #406619;
+	text-decoration: none;
+}
+
+::-webkit-scrollbar {
+	 width: 10px;
+}
+::-webkit-scrollbar-track {
+	 background: hsl(var(--bc));
+}
+::-webkit-scrollbar-thumb {
+	 background: hsl(var(--p));
+}
+::-webkit-scrollbar-thumb:hover {
+	 background: hsl(var(--p));
+}
+ 
