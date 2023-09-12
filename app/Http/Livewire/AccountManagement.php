@@ -1,5 +1,10 @@
 <?php
 
+/*
+	SyntaxSage
+	2023 © Cyrrile Ric Victoriano
+*/
+
 namespace App\Http\Livewire;
 
 use Livewire\Component;
@@ -84,4 +89,3 @@ class AccountManagement extends Component
 	}
 	
 }
-// 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

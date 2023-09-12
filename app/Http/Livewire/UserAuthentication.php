@@ -1,5 +1,10 @@
 <?php
 
+/*
+	SyntaxSage
+	2023 © Cyrrile Ric Victoriano
+*/
+
 namespace App\Http\Livewire;
 
 use Livewire\Component;
